@@ -6,3 +6,7 @@ print('it\'s correct')
 print("""line 1
 line 2
 line 3""")
+
+word=input('enter a word:')
+word_length=len(word)
+print(f'the length of the word is {word_length} ')
